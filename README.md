@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi 👋, I'm Mateus Purcina
 
-<!--
-**MateusPurcina/MateusPurcina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Junior developer** 🇧🇷
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <a href="https://github.com/MateusPurcina">
+    <img src="https://img.shields.io/badge/GitHub-MateusPurcina-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=herbertcarnaubadesouza&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herbertcarnaubadesouza&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🚀 Philosophy
+
+> _"Code is not just about solving problems.  
+> It's about building solutions that make life easier."_
+
+---
+
+⭐ "To the eternal King, the only God, immortal and invisible, be honor and glory forever and ever. Amen."
+1 Timóteo 1:17

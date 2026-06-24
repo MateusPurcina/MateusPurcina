@@ -3,9 +3,6 @@
 🚀 **Junior developer** 🇧🇷
 
 ---
-
-## 🌐 Where to find me
-
 <p align="left">
   <a href="https://github.com/MateusPurcina">
     <img src="https://img.shields.io/badge/GitHub-MateusPurcina-181717?style=for-the-badge&logo=github" />
